@@ -20,12 +20,4 @@ Print a title line for your table: (use \t to indicate a tab in a println statem
 And now the hard part... Using the variables, fill out the table. In other words, FOR EACH TEAM, you will need one println statement.  Your println statements should contain something like: `(variable + “ \t“ +  variable + “ \t“ + variable + “ \t“ + variable)`
 Overall, your table should look similar to the following:
 
-Team                Wins                Losses                Points
-Eskimos             9                   7                     18
-Argos               6                   10                    12
-Stampeeders         2                   14                    4
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+![](images/table.png)
