@@ -7,11 +7,7 @@ c) Print out: The first team is called (replace with the content of the `team1na
 d) Repeat the above for 2 more teams. Use `team2name` and `team3name`.
 
 ## Step 2
-Create integer (int) variables for the wins and losses of the three teams and decide how many wins and losses each should have. For example: 
-```int team1Wins = 9;         
-int team1Losses= 7;
-```        
-Do this for all 3 teams.
+Create integer (int) variables for the wins and losses of the three teams and decide how many wins and losses each should have. For example: `int team1Wins = 9;` and `int team1Losses= 7;`. Do this for all tree teams.
 
 ## Step 3
 Create 3 more int variables that store the total points for each team (such as `team1Points`). The points should be calculated using a formula. One possible formula for calculating total points is wins * 2.  Make sure you use the `team?wins` variable.
