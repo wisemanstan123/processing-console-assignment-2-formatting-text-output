@@ -24,3 +24,8 @@ Team                Wins                Losses                Points
 Eskimos             9                   7                     18
 Argos               6                   10                    12
 Stampeeders         2                   14                    4
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
