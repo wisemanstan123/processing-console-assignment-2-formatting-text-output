@@ -1,4 +1,4 @@
-# Formatting console output
+# processing-console-assignment-2-formatting-text-output
 
 ## Step 1
 1. Create a String variable called `team1name`. See https://processing.org/reference/String.html for reference of how to declare and use strings in Processing.
