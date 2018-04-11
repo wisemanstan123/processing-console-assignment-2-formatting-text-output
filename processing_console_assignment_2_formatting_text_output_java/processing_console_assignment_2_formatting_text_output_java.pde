@@ -22,8 +22,11 @@ void setup() {
   int team1points = team1wins*2;
   int team2points = team2wins*2;
   int team3points = team3wins*2;
-  println("Team \t wins \t loses \t points");
-  println(team1name + "\t");
+  println("Team \t\t wins \t losses \t points");
+  println(team1name + "\t " + team1wins + "\t " + team1losses + "\t " + team1points);
+  println(team2name + "\t " + team2wins +  "\t " + team2losses +  "\t " + team2points);
+  println(team3name + "\t " +team3wins +  "\t " + team3losses +  "\t " + team3points);
+
   
 }
 
